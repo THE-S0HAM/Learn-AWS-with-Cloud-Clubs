@@ -19,11 +19,14 @@ Currently, the repository holds only a few resources — but with your support, 
 
 ---
 
-## 📂 Available Resources
+## 📂 Available Service Resources
 
-| S.No. | Name                             | Type             | Link                                                                 | Contributed By      |
-|-------|----------------------------------|------------------|----------------------------------------------------------------------|----------------------|
-| 1     | Static Website hosting with EC2 | Tutorial Guide   | [View Guide](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/blob/main/EC2/Hands-on/EC2-Website-Hosting-Guide.md)                       | Soham Deshmukh       |
+| S.No. | Name                             | Type             | Link                                                                 |
+|-------|----------------------------------|------------------|----------------------------------------------------------------------|
+| 1     | EC2 | Hands-on   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/EC2/Hands-on)                       |
+| 2     | EC2 | Service info   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/EC2)                       |
+| 3     | S3 | Service info   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/S3)                       |
+| 4     | S3 | Guide   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/S3/Guides)                       |
 
 ---
 
