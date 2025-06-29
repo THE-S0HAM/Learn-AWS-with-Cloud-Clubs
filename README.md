@@ -27,6 +27,8 @@ Currently, the repository holds only a few resources — but with your support, 
 | 2     | EC2 | Service info   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/EC2)                       |
 | 3     | S3 | Service info   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/S3)                       |
 | 4     | S3 | Guide   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/S3/Guides)                       |
+| 5     | Lambda | Service info   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/Lambda)                       |
+| 6     | Lambda | Guide   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/Lambda/Guides)                       |
 
 ---
 
