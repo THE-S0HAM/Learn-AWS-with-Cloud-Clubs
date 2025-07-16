@@ -25,8 +25,7 @@ With PartyRock, we can build:
 - Anything you wish, you can innovate and share (https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/)
 
 **My Generative AI App-**
-AWS at your Fingertip: Learn any Service, at any time, and anywhere!
---(https://partyrock.aws/u/bhoomi01/gBwfkvBam/AWS-at-your-Fingertip%3A-Learn-any-Service-anywhere)
+[AWS at your Fingertip: Learn any Service, at any time, and anywhere!](https://partyrock.aws/u/bhoomi01/gBwfkvBam/AWS-at-your-Fingertip%3A-Learn-any-Service-anywhere)
 
 Input any AWS Service name, like AWS S3, EC2, Lambda, Redshift, etc…
 then just Ctrl + Enter →
@@ -48,7 +47,7 @@ Here, this assistant will help you get the roadmap for “Getting started with A
 
 Do you want to create something of your own? --
 Here are the steps to follow —
-- Go to AWS PartyRock [https://partyrock.aws/home] and sign up for free
+- Go to [AWS PartyRock](https://partyrock.aws/home) and sign up for free
 - Write a Few Shot Prompt and Generate
 - You will get the outcome with widget(s) and AI app description
 - You may add/edit the widgets/ variables and save the snapshots each time
@@ -63,14 +62,14 @@ Here are the steps to follow —
 - No Infra setup, Amazon BedRock makes it smoother.
 
 **References —**
-- Effective Prompt Engineering Series by Dheeraj Choudhary [https://www.youtube.com/watch?si=paF4yT0lM4phprhZ&v=d2VU8Tx0yaY&feature=youtu.be]
-- Amazon.com official doc on AWS PartyRock [https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/]
-- Check: how businesses are using PartyRock to expand [https://www.aboutamazon.com/news/aws/free-generative-ai-tool-amazon-aws-partyrock]
+- [Effective Prompt Engineering Series](https://www.youtube.com/watch?si=paF4yT0lM4phprhZ&v=d2VU8Tx0yaY&feature=youtu.be) by Dheeraj Choudhary 
+- [Amazon.com](https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/) official doc on AWS PartyRock 
+- Check: [how businesses are using PartyRock to expand](https://www.aboutamazon.com/news/aws/free-generative-ai-tool-amazon-aws-partyrock) 
 
 **Bhoomi!**
 *Stay Connected, Grow Together*🫱🏻‍🫲🏼
 
-Let’s connect on LinkedIn:) [https://www.linkedin.com/in/bhoomi-ganesh-raut/]
+Let’s connect on [LinkedIn:)](https://www.linkedin.com/in/bhoomi-ganesh-raut/)
 * Try it out today, and I am excited to see more innovative ideas with purpose!
 
 
