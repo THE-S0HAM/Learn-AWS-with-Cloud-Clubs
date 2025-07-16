@@ -1,3 +1,4 @@
+
 # AWS PartyRock GenAI App
 
 This project is a beginner-friendly GenAI-based app built using AWS PartyRock, powered by Amazon Bedrock.
@@ -6,7 +7,7 @@ This project is a beginner-friendly GenAI-based app built using AWS PartyRock, p
 📖 Read the Blog: https://medium.com/@bhoomi.raut100/aws-is-big-yes-but-where-and-how-to-start-amazon-bedrock-has-the-answers-6868fcb42ed6  
 📌 LinkedIn Post: https://www.linkedin.com/posts/activity-7349014229225529344-IzAB
 
-## 🎯 Purpose
+## 🎯 Purpose 
 
 For those who are **new to AWS** and feel confused about where and how to start —  
 this app provides a personalized learning assistant that gives a guided roadmap for:
