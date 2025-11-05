@@ -69,6 +69,8 @@ Currently, the repository holds only a few resources — but with your support, 
 | 44    | Polly | Guide   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/Polly/Guides)                       |
 | 45    | Personalize | Service info   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/Personalize)                       |
 | 46    | Personalize | Guide   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/Personalize/Guides)                       |
+| 47    | Beta Program | Activities & Guides   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/Beta-Program)                       |
+| 48    | Beta Program | Email Templates   | [View](https://github.com/THE-S0HAM/Learn-AWS-with-Cloud-Clubs/tree/main/Beta-Program)                       |
 
 ---
 
